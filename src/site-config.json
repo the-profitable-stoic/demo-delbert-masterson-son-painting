@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Delbert Masterson & Son Painting",
+    "phone": "+15024586100",
+    "category": "house painter",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Louisville's Trusted House Painters",
+      "heroSubline": "Delbert Masterson & Son Painting delivers quality results, on time and on budget. Get a free quote today!",
+      "aboutTitle": "Decades of Painting Excellence in Louisville",
+      "aboutText": [
+        "Delbert Masterson started this company with a simple goal: provide honest, reliable painting services to the Louisville community. Now, with my son by my side, we continue that tradition, combining old-school values with modern techniques.",
+        "We believe in doing the job right the first time. That means thorough prep work, using premium paints, and paying attention to every detail. Our reputation is built on quality craftsmanship and customer satisfaction.",
+        "We're proud to call Louisville home, and we're committed to giving back to the community that has supported us for so long. From sponsoring local youth sports to volunteering at neighborhood events, we're invested in making Louisville a better place."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Years of experience delivering top-quality painting services throughout Louisville."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only premium paints and materials for long-lasting results and vibrant colors."
+        },
+        {
+          "title": "Detailed Preparation",
+          "description": "Proper surface preparation is key to a flawless finish. We take the time to do it right."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We're not happy until you're happy. Your satisfaction is our top priority."
+        }
+      ],
+      "ctaHeadline": "Ready for a Fresh Coat?",
+      "ctaSubline": "Get a free, no-obligation quote from Delbert Masterson & Son Painting today!"
+    },
+    "services": [
+      {
+        "slug": "interior-painting",
+        "name": "Interior Painting",
+        "shortDescription": "Transform your living spaces with our expert interior painting services.",
+        "description": "Delbert Masterson & Son Painting provides comprehensive interior painting services, tailored to the unique needs of Louisville homes. From historic shotgun houses in Old Louisville to modern condos downtown, we handle all types of interior spaces. Our meticulous process includes thorough surface preparation, drywall repair, and careful application of premium paints. We protect your furniture and flooring, and ensure a clean, professional finish. Whether you're looking to refresh a single room or repaint your entire home, we'll work with you to choose the perfect colors and create a beautiful, inviting atmosphere. We understand the challenges of older homes in Louisville, with their plaster walls and unique architectural details, and we have the experience to handle them with care.\n\nWe start with a detailed consultation to understand your vision and assess the condition of your walls. Then, we meticulously prepare the surfaces, filling cracks, sanding imperfections, and applying primer as needed. We use only high-quality paints that are durable, washable, and resistant to fading. Our experienced painters apply multiple coats for a flawless, long-lasting finish.\n\nFinally, we clean up thoroughly, leaving your home spotless and ready to enjoy. We take pride in our workmanship and strive to exceed your expectations.",
+        "process": [
+          "Step 1: Consultation and Color Selection",
+          "Step 2: Thorough Surface Preparation",
+          "Step 3: Careful Application of Primer and Paint",
+          "Step 4: Detailed Cleanup and Inspection"
+        ],
+        "benefits": [
+          "Enhance the beauty and value of your home",
+          "Create a fresh, inviting atmosphere",
+          "Protect your walls from damage",
+          "Improve indoor air quality"
+        ],
+        "faq": [
+          {
+            "question": "How long does interior painting usually take?",
+            "answer": "The duration depends on the size of the space and the complexity of the job. We'll provide an estimated timeline during the consultation."
+          },
+          {
+            "question": "Do you help with color selection?",
+            "answer": "Absolutely! We can offer expert advice and help you choose the perfect colors to complement your home's style and your personal taste."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use only premium-quality paints from trusted brands, known for their durability, color retention, and low VOC content."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-painting",
+        "name": "Exterior Painting",
+        "shortDescription": "Protect and beautify your home with our expert exterior painting services.",
+        "description": "Delbert Masterson & Son Painting specializes in exterior painting services that protect your Louisville home from the elements and enhance its curb appeal. Our team understands the unique challenges posed by Louisville's climate, from hot, humid summers to cold, wet winters. We use durable, weather-resistant paints and proven techniques to ensure a long-lasting finish. Whether you own a brick bungalow in the Highlands or a Victorian home in Old Louisville, we have the expertise to handle any type of exterior surface, including wood, stucco, siding, and brick. We properly prepare all surfaces by power washing, scraping loose paint, and priming bare wood.\n\nWe understand that exterior painting is not just about aesthetics; it's also about protecting your home from water damage, insects, and other environmental factors. That's why we use only the highest-quality paints and materials, and we pay close attention to detail. We caulk all cracks and seams to prevent water intrusion, and we apply multiple coats of paint for maximum protection.\n\nOur commitment to customer satisfaction is unwavering. We'll work closely with you throughout the entire process to ensure that you're happy with the results. We'll also provide you with a detailed warranty so you can rest assured that your investment is protected.",
+        "process": [
+          "Step 1: Thorough Power Washing and Surface Cleaning",
+          "Step 2: Scraping Loose Paint and Priming Bare Wood",
+          "Step 3: Caulking Cracks and Seams",
+          "Step 4: Application of Premium Exterior Paint"
+        ],
+        "benefits": [
+          "Protect your home from the elements",
+          "Enhance curb appeal and property value",
+          "Prevent water damage and insect infestation",
+          "Extend the life of your siding"
+        ],
+        "faq": [
+          {
+            "question": "How often should I repaint my home's exterior?",
+            "answer": "Typically, every 5-10 years, depending on the type of siding and the severity of the weather exposure."
+          },
+          {
+            "question": "Do you offer color consultations for exterior painting?",
+            "answer": "Yes, we can help you choose the perfect colors to complement your home's architecture and landscaping."
+          },
+          {
+            "question": "What type of paint do you use for exterior painting?",
+            "answer": "We use high-quality, weather-resistant paints specifically designed for exterior use."
+          }
+        ]
+      },
+      {
+        "slug": "cabinet-refinishing",
+        "name": "Cabinet Refinishing",
+        "shortDescription": "Give your kitchen a fresh new look with our cabinet refinishing services.",
+        "description": "Transform your kitchen without the expense of replacing your cabinets. Delbert Masterson & Son Painting offers expert cabinet refinishing services that can breathe new life into your kitchen or bathroom. We carefully remove doors and drawers, thoroughly clean and sand the surfaces, and apply a durable, beautiful finish. Whether you want to update the color, change the sheen, or simply refresh the existing finish, we can help. We understand the importance of proper preparation and use only high-quality products to ensure a long-lasting result. Many Louisville homes feature older cabinetry that, while structurally sound, may look dated. Refinishing is a cost-effective way to update your kitchen's aesthetic.\n\nOur cabinet refinishing process involves several key steps. First, we carefully remove all hardware and thoroughly clean the cabinet surfaces to remove grease, grime, and old finishes. Next, we sand the surfaces to create a smooth, even base for the new finish. We then apply a primer to ensure proper adhesion of the paint or stain. Finally, we apply multiple coats of your chosen finish, allowing each coat to dry completely before applying the next.\n\nWe can also replace hardware, such as knobs and pulls, to further enhance the look of your cabinets. Our goal is to provide you with a kitchen that you'll love for years to come.",
+        "process": [
+          "Step 1: Careful Removal of Doors and Drawers",
+          "Step 2: Thorough Cleaning and Sanding of Surfaces",
+          "Step 3: Application of Primer",
+          "Step 4: Application of Durable Finish"
+        ],
+        "benefits": [
+          "Save money compared to replacing cabinets",
+          "Update the look of your kitchen or bathroom",
+          "Extend the life of your cabinets",
+          "Customize the color and finish to your liking"
+        ],
+        "faq": [
+          {
+            "question": "How long does cabinet refinishing take?",
+            "answer": "Typically, 3-5 days, depending on the size of the kitchen and the complexity of the job."
+          },
+          {
+            "question": "Can you match my existing cabinet color?",
+            "answer": "Yes, we can match virtually any color using our advanced color-matching technology."
+          },
+          {
+            "question": "What type of finish do you use for cabinet refinishing?",
+            "answer": "We use durable, moisture-resistant finishes specifically designed for kitchen and bathroom cabinets."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Seamless drywall repair to restore your walls to their original condition.",
+        "description": "From minor dents and dings to major holes and water damage, Delbert Masterson & Son Painting provides expert drywall repair services. We understand that damaged drywall can detract from the appearance of your home and even affect its structural integrity. That's why we offer prompt, reliable drywall repair services to restore your walls to their original condition. We carefully patch holes, repair cracks, and smooth out imperfections, leaving you with a seamless, paint-ready surface. Many Louisville homes, especially older ones, experience drywall cracks due to settling or foundation movement. We have the experience to properly address these issues.\n\nOur drywall repair process involves several key steps. First, we carefully assess the damage and determine the best course of action. Next, we remove any loose or damaged drywall and clean the area. We then apply a patch or fill the hole with joint compound, carefully smoothing it out to create a seamless surface. We allow the joint compound to dry completely before sanding it smooth. Finally, we prime the repaired area and apply a coat of paint to match the surrounding wall.\n\nWe take pride in our attention to detail and strive to provide you with a flawless finish. Our goal is to make your walls look as good as new.",
+        "process": [
+          "Step 1: Assessment of Damage",
+          "Step 2: Removal of Damaged Drywall",
+          "Step 3: Patching and Filling Holes",
+          "Step 4: Sanding and Priming"
+        ],
+        "benefits": [
+          "Restore your walls to their original condition",
+          "Improve the appearance of your home",
+          "Prevent further damage",
+          "Increase property value"
+        ],
+        "faq": [
+          {
+            "question": "How much does drywall repair cost?",
+            "answer": "The cost depends on the size and severity of the damage. We'll provide a free estimate after assessing the situation."
+          },
+          {
+            "question": "Can you match the existing texture of my walls?",
+            "answer": "Yes, we have the expertise to match virtually any texture."
+          },
+          {
+            "question": "How long does drywall repair take?",
+            "answer": "Typically, 1-2 days, depending on the extent of the damage."
+          }
+        ]
+      },
+      {
+        "slug": "deck-staining-sealing",
+        "name": "Deck Staining & Sealing",
+        "shortDescription": "Protect and beautify your deck with our professional staining and sealing services.",
+        "description": "Delbert Masterson & Son Painting offers expert deck staining and sealing services to protect your Louisville deck from the elements and enhance its natural beauty. We understand that decks are a valuable extension of your home, providing a space for relaxation and entertainment. That's why we offer comprehensive deck staining and sealing services to keep your deck looking its best for years to come. We carefully clean and prepare the deck surface, apply a high-quality stain or sealant, and ensure a uniform, long-lasting finish. Louisville's humid summers and cold winters can take a toll on decks, making regular maintenance essential.\n\nOur deck staining and sealing process involves several key steps. First, we thoroughly clean the deck surface to remove dirt, mildew, and old finishes. Next, we sand the surface to create a smooth, even base for the stain or sealant. We then apply a high-quality stain or sealant that is specifically designed for outdoor use. Finally, we allow the finish to dry completely before allowing foot traffic on the deck.\n\nWe offer a variety of stain and sealant options to choose from, including clear sealers, semi-transparent stains, and solid stains. We can help you choose the perfect product to complement your home's style and your personal taste. Our goal is to provide you with a deck that you can enjoy for many years to come.",
+        "process": [
+          "Step 1: Thorough Cleaning of Deck Surface",
+          "Step 2: Sanding of Deck Surface",
+          "Step 3: Application of Stain or Sealant",
+          "Step 4: Drying and Inspection"
+        ],
+        "benefits": [
+          "Protect your deck from the elements",
+          "Enhance the natural beauty of the wood",
+          "Extend the life of your deck",
+          "Prevent rot and decay"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain or seal my deck?",
+            "answer": "Typically, every 1-3 years, depending on the type of wood and the severity of the weather exposure."
+          },
+          {
+            "question": "What type of stain or sealant do you recommend?",
+            "answer": "We recommend high-quality, oil-based stains or sealants that are specifically designed for outdoor use."
+          },
+          {
+            "question": "Can you repair damaged deck boards?",
+            "answer": "Yes, we can repair or replace damaged deck boards as needed."
+          }
+        ]
+      },
+      {
+        "slug": "wallpaper-removal",
+        "name": "Wallpaper Removal",
+        "shortDescription": "Safely and efficiently remove old wallpaper to prepare your walls for painting.",
+        "description": "Removing old wallpaper can be a tedious and time-consuming task. Delbert Masterson & Son Painting offers professional wallpaper removal services to make the process easy and stress-free. We carefully remove the wallpaper without damaging the walls, prepare the surfaces for painting, and leave you with a smooth, paint-ready finish. Many older homes in Louisville still have wallpaper, and proper removal is essential for a professional paint job.\n\nOur wallpaper removal process involves several key steps. First, we protect your floors and furniture with drop cloths. Next, we score the wallpaper to allow the removal solution to penetrate. We then apply a wallpaper removal solution and allow it to soak in for a specified amount of time. Finally, we carefully peel off the wallpaper, using a putty knife to remove any stubborn pieces. We then clean the walls thoroughly and repair any damage.\n\nWe understand that wallpaper removal can be messy and time-consuming. That's why we offer this service to our customers, allowing them to focus on other aspects of their home renovation project. Our goal is to provide you with a smooth, paint-ready surface that is free of wallpaper residue.",
+        "process": [
+          "Step 1: Protection of Floors and Furniture",
+          "Step 2: Scoring of Wallpaper",
+          "Step 3: Application of Wallpaper Removal Solution",
+          "Step 4: Careful Removal of Wallpaper"
+        ],
+        "benefits": [
+          "Save time and effort",
+          "Prevent damage to your walls",
+          "Prepare your walls for painting",
+          "Ensure a smooth, paint-ready surface"
+        ],
+        "faq": [
+          {
+            "question": "How long does wallpaper removal take?",
+            "answer": "Typically, 1-3 days, depending on the size of the room and the type of wallpaper."
+          },
+          {
+            "question": "Do you repair any damage caused by wallpaper removal?",
+            "answer": "Yes, we repair any minor damage to the walls, such as holes or scratches."
+          },
+          {
+            "question": "What do you do with the old wallpaper?",
+            "answer": "We dispose of the old wallpaper properly."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "Delbert Masterson & Son Painting is proud to serve the Louisville metropolitan area. With years of experience painting homes and businesses throughout the city, we understand the unique architectural styles and weather conditions that can affect paint jobs in Louisville. Whether you're in historic Old Louisville or a modern neighborhood in the East End, our team is equipped to handle any painting project. \n\nWe use only the highest quality paints and materials to ensure a long-lasting and beautiful finish. Our services include interior painting, exterior painting, drywall repair, and power washing. We are committed to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Louisville is known for its vibrant arts scene, bourbon distilleries, and the Kentucky Derby. We're familiar with the different needs of homeowners in this diverse and dynamic city.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "St. Matthews",
+          "Shively"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "Delbert Masterson & Son Painting provides professional painting services to the Jeffersontown community. We understand the importance of a well-maintained home or business, and we are dedicated to delivering top-quality results. From small touch-ups to complete repaints, we have the expertise to handle any project.\n\nOur team is committed to using eco-friendly paints and practices whenever possible. We also offer color consultation services to help you choose the perfect colors for your space. We take pride in our attention to detail and our commitment to customer satisfaction.",
+        "localContext": "Jeffersontown is a thriving community with a strong sense of local pride. We are proud to serve the residents and businesses of this area.",
+        "nearbyAreas": [
+          "Louisville",
+          "Middletown",
+          "Anchorage"
+        ]
+      },
+      {
+        "city": "St. Matthews",
+        "slug": "st-matthews-ky",
+        "state": "KY",
+        "content": "Delbert Masterson & Son Painting offers comprehensive painting services in St. Matthews. We are familiar with the diverse range of homes and businesses in this area, from charming bungalows to modern commercial spaces. Our team is skilled in all aspects of painting, including surface preparation, priming, and finish application.\n\nWe understand that painting can be disruptive, so we strive to minimize any inconvenience to our clients. We are punctual, professional, and respectful of your property. We also offer flexible scheduling options to accommodate your needs.",
+        "localContext": "St. Matthews is a popular shopping and dining destination with a mix of residential and commercial properties. We understand the unique needs of property owners in this area.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Indian Hills"
+        ]
+      },
+      {
+        "city": "Shively",
+        "slug": "shively-ky",
+        "state": "KY",
+        "content": "Delbert Masterson & Son Painting is dedicated to providing high-quality painting services to the residents and businesses of Shively. We understand the local climate and its effects on paint, ensuring that our work lasts. From detailed trim work to full exterior restorations, our team is prepared for any challenge.\n\nWe believe in transparent pricing and clear communication. We will provide you with a detailed estimate upfront and keep you informed throughout the entire painting process. Our goal is to make your painting experience as stress-free as possible.",
+        "localContext": "Shively is a close-knit community with a strong industrial history. We are proud to contribute to the beauty and upkeep of homes and businesses in this area.",
+        "nearbyAreas": [
+          "Louisville",
+          "Pleasure Ridge Park",
+          "Valley Station"
+        ]
+      },
+      {
+        "city": "Middletown",
+        "slug": "middletown-ky",
+        "state": "KY",
+        "content": "Delbert Masterson & Son Painting offers expert painting services to the Middletown community. We provide both interior and exterior painting to residents and commercial properties. Our team of skilled painters has years of experience, and we are committed to delivering exceptional results every time. \n\nWe utilize only the highest quality paints and materials to ensure a long-lasting and beautiful finish. Whether you're looking to refresh your home's interior or protect your business's exterior, we have the expertise to handle any project.",
+        "localContext": "Middletown is a growing area with a mix of established neighborhoods and new developments. Delbert Masterson & Son Painting is ready to serve the painting needs of this expanding community.",
+        "nearbyAreas": [
+          "Anchorage",
+          "Lyndon",
+          "Jeffersontown"
+        ]
+      },
+      {
+        "city": "Anchorage",
+        "slug": "anchorage-ky",
+        "state": "KY",
+        "content": "Delbert Masterson & Son Painting provides premium painting services in Anchorage, Kentucky. Known for its beautiful, historic homes and lush landscapes, Anchorage deserves the highest quality painting services. We're familiar with the unique demands of maintaining and enhancing these properties, offering meticulous attention to detail and exceptional craftsmanship.\n\nOur services include thorough surface preparation, ensuring a smooth and lasting finish. We use only top-of-the-line paints that are resistant to the elements, and we pride ourselves on our professionalism and respect for your property.",
+        "localContext": "Anchorage is an affluent community with a strong emphasis on preserving its historic character. Delbert Masterson & Son Painting respects this heritage and strives to provide painting services that complement the area's aesthetic.",
+        "nearbyAreas": [
+          "Middletown",
+          "Lyndon",
+          "Prospect"
+        ]
+      },
+      {
+        "city": "Lyndon",
+        "slug": "lyndon-ky",
+        "state": "KY",
+        "content": "Delbert Masterson & Son Painting is proud to serve the Lyndon community with reliable and high-quality painting services. We understand the importance of a fresh, well-maintained appearance for both homes and businesses. Our team is dedicated to providing excellent workmanship and exceptional customer service.\n\nWe offer a wide range of services, including interior and exterior painting, drywall repair, and power washing. We are committed to using eco-friendly paints and practices whenever possible. We also offer free color consultations to help you choose the perfect palette for your space.",
+        "localContext": "Lyndon is a vibrant suburb of Louisville with a mix of residential and commercial areas. We're well-versed in the specific painting needs of this diverse community.",
+        "nearbyAreas": [
+          "St. Matthews",
+          "Middletown",
+          "Anchorage"
+        ]
+      },
+      {
+        "city": "Prospect",
+        "slug": "prospect-ky",
+        "state": "KY",
+        "content": "Delbert Masterson & Son Painting offers professional painting services to Prospect, Kentucky residents. We recognize the importance of a well-maintained home, and we are dedicated to providing top-quality results. From small touch-ups to complete repaints, we have the expertise to handle any project. We are committed to using the best paints and materials to provide a long lasting beautiful finish.\n\nOur team is committed to using eco-friendly paints and practices whenever possible. We also offer color consultation services to help you choose the perfect colors for your space. We take pride in our attention to detail and our commitment to customer satisfaction.",
+        "localContext": "Prospect is known for its beautiful homes and well-kept neighborhoods. We strive to provide painting services that match the high standards of this community.",
+        "nearbyAreas": [
+          "Crestwood",
+          "Goshen",
+          "Anchorage"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "Delbert and his team did an amazing job painting the interior of my Highlands bungalow! They were professional, efficient, and the quality of their work is outstanding. I highly recommend them.",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Exterior Painting",
+        "text": "We hired Delbert Masterson & Son Painting to paint our Victorian home in Old Louisville. The prep work was thorough, and the finished product is beautiful. A few minor touch-ups were needed, but they were quick to respond and address them.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Cabinet Refinishing",
+        "text": "I was amazed at how Delbert Masterson & Son Painting transformed my kitchen cabinets! They look brand new, and it saved me a ton of money compared to replacing them. They even helped me pick out new hardware.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "After a plumbing leak, we had a large hole in our drywall. Delbert Masterson & Son Painting repaired it seamlessly, and you can't even tell there was ever any damage. Great work!",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Deck Staining & Sealing",
+        "text": "Our deck was looking worn and faded. Delbert Masterson & Son Painting stained and sealed it, and now it looks fantastic! They were very professional and cleaned up thoroughly after the job.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "Delbert and his son painted our entire house, and they did a phenomenal job. Very professional, courteous and cleaned up everything. Would highly recommend!",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Delbert Masterson Painting | Louisville, KY",
+        "description": "Experienced house painters in Louisville. Interior, exterior, cabinets, drywall. Free quotes!"
+      },
+      "about": {
+        "title": "About Delbert Masterson Painting",
+        "description": "Learn about Delbert Masterson & Son Painting's history, values, and commitment to the Louisville community."
+      },
+      "services": {
+        "title": "Painting Services | Louisville, KY",
+        "description": "Interior painting, exterior painting, cabinet refinishing, drywall repair, and more in Louisville."
+      },
+      "contact": {
+        "title": "Contact Delbert Masterson Painting",
+        "description": "Get in touch with Delbert Masterson & Son Painting for a free quote and expert advice on your painting project."
+      },
+      "reviews": {
+        "title": "Delbert Masterson Painting Reviews",
+        "description": "Read reviews from satisfied customers of Delbert Masterson & Son Painting in Louisville, KY."
+      },
+      "service-areas": {
+        "title": "Service Areas | Louisville Painting",
+        "description": "Delbert Masterson & Son Painting provides expert painting services throughout the Louisville metro area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "interior-painting": "/images/service-interior-painting.webp",
+      "exterior-painting": "/images/service-exterior-painting.webp",
+      "cabinet-refinishing": "/images/service-cabinet-refinishing.webp",
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "deck-staining-sealing": "/images/service-deck-staining-sealing.webp",
+      "wallpaper-removal": "/images/service-wallpaper-removal.webp"
+    },
+    "servicesResponsive": {
+      "interior-painting": {
+        "src": "/images/service-interior-painting.webp",
+        "srcset": "/images/service-interior-painting-400w.webp 400w, /images/service-interior-painting-800w.webp 800w, /images/service-interior-painting-1200w.webp 1200w, /images/service-interior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-painting": {
+        "src": "/images/service-exterior-painting.webp",
+        "srcset": "/images/service-exterior-painting-400w.webp 400w, /images/service-exterior-painting-800w.webp 800w, /images/service-exterior-painting-1200w.webp 1200w, /images/service-exterior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cabinet-refinishing": {
+        "src": "/images/service-cabinet-refinishing.webp",
+        "srcset": "/images/service-cabinet-refinishing-400w.webp 400w, /images/service-cabinet-refinishing-800w.webp 800w, /images/service-cabinet-refinishing-1200w.webp 1200w, /images/service-cabinet-refinishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-staining-sealing": {
+        "src": "/images/service-deck-staining-sealing.webp",
+        "srcset": "/images/service-deck-staining-sealing-400w.webp 400w, /images/service-deck-staining-sealing-800w.webp 800w, /images/service-deck-staining-sealing-1200w.webp 1200w, /images/service-deck-staining-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wallpaper-removal": {
+        "src": "/images/service-wallpaper-removal.webp",
+        "srcset": "/images/service-wallpaper-removal-400w.webp 400w, /images/service-wallpaper-removal-800w.webp 800w, /images/service-wallpaper-removal-1200w.webp 1200w, /images/service-wallpaper-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

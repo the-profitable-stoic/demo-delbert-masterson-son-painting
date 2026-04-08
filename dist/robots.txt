@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-delbert-masterson-son-painting.dream-surge.com/sitemap-index.xml
